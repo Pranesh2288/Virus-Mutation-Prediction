@@ -1,0 +1,2 @@
+HCov-229E   ->  HCov-NL63   -> SARS-CoV   -> HCov-HKU1   -> MERS-CoV   -> SARS-CoV-2
+1965        -> 1990         -> 2003       -> 2004        -> 2012       -> 2019
